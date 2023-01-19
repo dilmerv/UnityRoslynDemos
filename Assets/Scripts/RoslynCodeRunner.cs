@@ -5,7 +5,7 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.Events;
 
-public class TestRoslynMonoBehaviour : MonoBehaviour
+public class RoslynCodeRunner : MonoBehaviour
 {
     [SerializeField]
     private string[] namespaces;

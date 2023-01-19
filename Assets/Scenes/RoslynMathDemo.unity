@@ -202,7 +202,7 @@ GameObject:
   - component: {fileID: 120816962}
   - component: {fileID: 120816961}
   m_Layer: 0
-  m_Name: TestRoslyn
+  m_Name: RoslynCodeRunner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
